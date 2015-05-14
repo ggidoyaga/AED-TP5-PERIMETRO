@@ -1,0 +1,11 @@
+Ingrese la Altura.
+4
+Ingrese la Base.
+5
+La altura es: 4 y la base es: 5.
+
+El perimetro calculado es: 18.
+
+
+Process returned 0 (0x0)   execution time : 4.207 s
+Press any key to continue.
